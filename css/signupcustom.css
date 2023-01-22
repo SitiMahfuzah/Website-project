@@ -64,3 +64,8 @@
     border: 3px #f6b9b6 !important;
     box-sizing: border-box !important;
   }
+
+  .container2 {
+    background-color: transparent !important;
+    box-shadow: none;
+  }
